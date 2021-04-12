@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-12T12:34:52 IST" name="Default suite" finished-at="2021-04-12T12:35:26 IST" duration-ms="33467">
+    <groups>
+    </groups>
+    <test started-at="2021-04-12T12:34:52 IST" name="Default test" finished-at="2021-04-12T12:35:26 IST" duration-ms="33467">
+      <class name="com.lnx.tests.TC_lnx_addLead">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.lnx.tests.TC_lnx_addLead@12e61fe6]" started-at="2021-04-12T12:34:52 IST" name="setup" finished-at="2021-04-12T12:35:02 IST" duration-ms="9756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="navigateToLoginScreen()[pri:1, instance:com.lnx.tests.TC_lnx_addLead@12e61fe6]" started-at="2021-04-12T12:35:02 IST" name="navigateToLoginScreen" finished-at="2021-04-12T12:35:06 IST" duration-ms="3655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToLoginScreen -->
+        <test-method signature="loginToLennox()[pri:2, instance:com.lnx.tests.TC_lnx_addLead@12e61fe6]" started-at="2021-04-12T12:35:06 IST" name="loginToLennox" finished-at="2021-04-12T12:35:11 IST" duration-ms="5561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToLennox -->
+        <test-method signature="menuNavigation()[pri:3, instance:com.lnx.tests.TC_lnx_addLead@12e61fe6]" started-at="2021-04-12T12:35:11 IST" name="menuNavigation" finished-at="2021-04-12T12:35:20 IST" duration-ms="9218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuNavigation -->
+        <test-method signature="addLeadandSave()[pri:4, instance:com.lnx.tests.TC_lnx_addLead@12e61fe6]" started-at="2021-04-12T12:35:20 IST" name="addLeadandSave" finished-at="2021-04-12T12:35:26 IST" duration-ms="5218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLeadandSave -->
+      </class> <!-- com.lnx.tests.TC_lnx_addLead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
